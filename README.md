@@ -1,2 +1,6 @@
 # gpt-genie
-The GPT Genie google addon
+GPT Genie for Google Sheets
+
+This repo contains:
+- Assets (icons, logos) for the webpage and the add on)
+
